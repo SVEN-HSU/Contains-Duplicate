@@ -1,0 +1,6 @@
+D:\C&C++ samples\Contains Duplicate\Contains Duplicate\bin\Debug\Contains Duplicate.exe.config
+D:\C&C++ samples\Contains Duplicate\Contains Duplicate\bin\Debug\Contains Duplicate.exe
+D:\C&C++ samples\Contains Duplicate\Contains Duplicate\bin\Debug\Contains Duplicate.pdb
+D:\C&C++ samples\Contains Duplicate\Contains Duplicate\obj\Debug\Contains Duplicate.csprojResolveAssemblyReference.cache
+D:\C&C++ samples\Contains Duplicate\Contains Duplicate\obj\Debug\Contains Duplicate.exe
+D:\C&C++ samples\Contains Duplicate\Contains Duplicate\obj\Debug\Contains Duplicate.pdb
